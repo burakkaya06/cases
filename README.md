@@ -24,7 +24,7 @@ Run the following command to run the tests
 ## Run project
 
 ```bash
-app:calculate-commission input.txt
+bin/console app:update-stock input.txt
 ```
 
   
