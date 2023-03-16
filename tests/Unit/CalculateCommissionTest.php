@@ -11,7 +11,7 @@ use Symfony\Component\Console\Tester\CommandTester;
 class CalculateCommissionTest extends ServiceTestCase
 {
 
-    public function testDeneme() {
+    public function testCalculateCommission() {
 
         $kernel = static::createKernel();
         $kernel->boot();
