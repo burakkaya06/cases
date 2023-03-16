@@ -1,0 +1,37 @@
+parameters:
+  file_directory_input: /public/Resources/
+  bin_check_url : https://lookup.binlist.net/
+  exchange_rate_url : https://api.apilayer.com/exchangerates_data/latest
+  exchange_rate_api_key : Q7X8jTdyaS8uME1Q1MVRp3Gk2X9eTuXB
+  exchange_rate_symbol : EUR
+  isEu : 0.01
+  isntEu : 0.02
+
+  eu :
+    - AT
+    - BE
+    - BG
+    - CY
+    - CZ
+    - DE
+    - DK
+    - EE
+    - ES
+    - FI
+    - FR
+    - GR
+    - HR
+    - HU
+    - IE
+    - IT
+    - LT
+    - LU
+    - LV
+    - MT
+    - NL
+    - PO
+    - PT
+    - RO
+    - SE
+    - SI
+    - SK

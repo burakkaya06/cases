@@ -1,0 +1,7 @@
+parameters:
+  error:
+    error01: File Parameter required
+    error02 : File Not Available
+    error03 : File is empty
+    error04 : Bin number not found
+    error05 : Rate information could not be retrieved
